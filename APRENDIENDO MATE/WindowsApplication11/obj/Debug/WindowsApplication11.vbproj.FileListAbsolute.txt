@@ -1,0 +1,20 @@
+g:\mis documentos\visual studio 2012\Projects\WindowsApplication11\WindowsApplication11\bin\Debug\WindowsApplication11.exe.config
+g:\mis documentos\visual studio 2012\Projects\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.Form1.resources
+g:\mis documentos\visual studio 2012\Projects\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.Resources.resources
+g:\mis documentos\visual studio 2012\Projects\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.vbproj.GenerateResource.Cache
+g:\mis documentos\visual studio 2012\Projects\WindowsApplication11\WindowsApplication11\bin\Debug\WindowsApplication11.exe
+g:\mis documentos\visual studio 2012\Projects\WindowsApplication11\WindowsApplication11\bin\Debug\WindowsApplication11.pdb
+g:\mis documentos\visual studio 2012\Projects\WindowsApplication11\WindowsApplication11\bin\Debug\WindowsApplication11.xml
+g:\mis documentos\visual studio 2012\Projects\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.exe
+g:\mis documentos\visual studio 2012\Projects\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.xml
+g:\mis documentos\visual studio 2012\Projects\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.pdb
+G:\Mis Documentos\GitHub\Aprendiendo-Mate\WindowsApplication11\WindowsApplication11\bin\Debug\WindowsApplication11.exe.config
+G:\Mis Documentos\GitHub\Aprendiendo-Mate\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.exe
+G:\Mis Documentos\GitHub\Aprendiendo-Mate\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.xml
+G:\Mis Documentos\GitHub\Aprendiendo-Mate\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.pdb
+G:\Mis Documentos\GitHub\Aprendiendo-Mate\WindowsApplication11\WindowsApplication11\bin\Debug\WindowsApplication11.exe
+G:\Mis Documentos\GitHub\Aprendiendo-Mate\WindowsApplication11\WindowsApplication11\bin\Debug\WindowsApplication11.pdb
+G:\Mis Documentos\GitHub\Aprendiendo-Mate\WindowsApplication11\WindowsApplication11\bin\Debug\WindowsApplication11.xml
+G:\Mis Documentos\GitHub\Aprendiendo-Mate\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.Form1.resources
+G:\Mis Documentos\GitHub\Aprendiendo-Mate\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.Resources.resources
+G:\Mis Documentos\GitHub\Aprendiendo-Mate\WindowsApplication11\WindowsApplication11\obj\Debug\WindowsApplication11.vbproj.GenerateResource.Cache
